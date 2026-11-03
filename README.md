@@ -1,5 +1,5 @@
 [README (2).md](https://github.com/user-attachments/files/34310327/README.2.md)
-<h2 align="center">Renata Bueno</h2>
+<h2 align="center">Renata Cibelle Bueno</h2>
 
 <p align="center">
   Estudante de Ciência da Computação na Afya Unima · Maceió, AL<br>
@@ -11,13 +11,12 @@
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
-  Olá! Sou a Renata, estudante do 4º período de Ciência da Computação.
+  Olá! Sou Renata Bueno, estudante de Ciência da Computação.
   Estou no começo da minha trajetória e aproveito a graduação para transformar o que aprendo em projetos práticos.
 </p>
 
 <p align="center">
-  Este GitHub é onde reúno esses projetos: algoritmos de grafos aplicados ao mapa real de Maceió,
-  sistemas em Java com Programação Orientada a Objetos e uma aplicação em TypeScript construída com DDD e TDD.
+  Este GitHub é onde reúno meus projetos.
 </p>
 
 <p align="center">
