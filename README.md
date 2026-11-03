@@ -1,5 +1,5 @@
-[README (1).md](https://github.com/user-attachments/files/34310224/README.1.md)
-<h2 align="center">Renata Cibelle Bueno</h2>
+[README (2).md](https://github.com/user-attachments/files/34310327/README.2.md)
+<h2 align="center">Renata Bueno</h2>
 
 <p align="center">
   Estudante de Ciência da Computação na Afya Unima · Maceió, AL<br>
@@ -11,11 +11,17 @@
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
-  <b>Formação</b> · Bacharelado em Ciência da Computação, 4º período (previsão de conclusão: 2028)<br>
-  <b>Em estudo</b> · Estruturas de Dados e Engenharia de Software<br>
-  <b>Objetivo</b> · atuar como estagiária em Desenvolvimento de Software<br>
-  <b>Destaques</b> · algoritmos de grafos aplicados a dados reais de Maceió (Dijkstra e A* implementados do zero),<br>
-  Programação Orientada a Objetos em Java e arquitetura com DDD e TDD em TypeScript
+  Olá! Sou a Renata, estudante do 4º período de Ciência da Computação.
+  Estou no começo da minha trajetória e aproveito a graduação para transformar o que aprendo em projetos práticos.
+</p>
+
+<p align="center">
+  Este GitHub é onde reúno esses projetos: algoritmos de grafos aplicados ao mapa real de Maceió,
+  sistemas em Java com Programação Orientada a Objetos e uma aplicação em TypeScript construída com DDD e TDD.
+</p>
+
+<p align="center">
+  Sigo estudando e tenho novos projetos em mente, que pretendo publicar aqui em breve.
 </p>
 
 <br>
