@@ -1,5 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/34310224/README.1.md)
-<h2 align="center">Renata Bueno</h2>
+<h2 align="center">Renata Cibelle Bueno</h2>
 
 <p align="center">
   Estudante de Ciência da Computação na Afya Unima · Maceió, AL<br>
