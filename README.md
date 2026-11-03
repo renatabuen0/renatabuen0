@@ -2,8 +2,8 @@
 <h2 align="center">Renata Cibelle Bueno</h2>
 
 <p align="center">
-  Estudante de Ciência da Computação na Afya Unima · Maceió, AL<br>
-  <sub>Em busca de estágio em Desenvolvimento de Software</sub>
+  Ciência da Computação na Afya Unima · Maceió, AL<br>
+  <sub> Desenvolvimento de Software</sub>
 </p>
 
 <br>
@@ -12,7 +12,6 @@
 
 <p align="center">
   Olá! Sou Renata Bueno, estudante de Ciência da Computação.
-  Estou no começo da minha trajetória e aproveito a graduação para transformar o que aprendo em projetos práticos.
 </p>
 
 <p align="center">
